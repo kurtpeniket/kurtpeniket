@@ -6,5 +6,3 @@
 <a href="https://twitter.com/kurt_peniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kurt_peniket" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kurtpeniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kurtpeniket" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtpeniket&show_icons=true&locale=en&layout=compact" alt="kurtpeniket" /></p>
