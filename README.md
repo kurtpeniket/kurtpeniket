@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kurt</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurtpeniket&label=Profile%20views&color=0e75b6&style=flat" alt="kurtpeniket" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kurtpeniket&label=Profile%20views&color=0e75b6&style=flat" alt="kurtpeniket" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kurt_peniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kurt_peniket" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kurtpeniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kurtpeniket" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtpeniket&show_icons=true&locale=en&layout=compact" alt="kurtpeniket" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtpeniket&show_icons=true&locale=en&layout=compact" alt="kurtpeniket" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurtpeniket&show_icons=true&locale=en" alt="kurtpeniket" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kurtpeniket&show_icons=true&locale=en" alt="kurtpeniket" /></p>
